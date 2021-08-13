@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/leftSide"
+        android:title="@string/left"
+        android:icon="@drawable/ic_app_bar_right">
+    </item>
+    <item android:id="@+id/rightSide"
+        android:title="@string/right"
+        android:icon="@drawable/ic_app_bar_right">
+    </item>
+</menu>
